@@ -1,2 +1,4 @@
 # ProjetoHtml
-Site simples aplicando o conceito armazenamento local para um jogo de adivinhar a palavra de dois jogadores utilizando javascrip, html e css.
+Site simples aplicando o conceito armazenamento local para estudo com um jogo de adivinhar a palavra de dois jogadores utilizando:
+
+Javascrip/HTML/CSS
